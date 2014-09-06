@@ -1,4 +1,5 @@
-DeadPlusPlus (& The Dead Walk) by Gareth Murfin (www.garethmurfin.co.uk)
+DeadPlusPlus (& The Dead Walk) 
+By Gareth Murfin (www.garethmurfin.co.uk)
 ====================================================
 
 Dead++ is a 2D games design tool written in Java. Initially I created this in order to make a zombie game I designed called THE DEAD WALK (which comes with DeadPlusPlus). To cut a long story short, after around 4 years of part time development, I gave up due to lack of funds, and a falling out with my artist. 
@@ -12,6 +13,8 @@ Code by Gareth Murfin.
 Graphics by Magic Nieh.
 
 Feel free to fork :)
+
+PS, I am also a remote freelance Android developer, if you need an app check out my portfolio and get in touch, www.garethmurfin.co.uk
 
 LICENSE
 ====================================================
